@@ -1,0 +1,3 @@
+/* index.css — minimal reset, defer to App.css for design tokens */
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; }
